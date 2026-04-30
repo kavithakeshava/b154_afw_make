@@ -1,7 +1,6 @@
-name: Run Tests
+name: Run Tests Later
 
 on:
-  push:
   schedule:
     - cron: '30 5 30 4 *'
   workflow_dispatch:
