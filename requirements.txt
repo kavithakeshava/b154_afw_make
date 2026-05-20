@@ -4,4 +4,5 @@ pytest-order
 pyjavaproperties
 openpyxl
 playwright
+
 allure-pytest
